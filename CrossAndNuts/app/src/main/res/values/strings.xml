@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cross And Nuts</string>
+    <string name="Bot">Bot</string>
+    <string name="User">User</string>
+    <string name="bot">0</string>
+    <string name="user">0</string>
+    <string name="result">Result</string>
+</resources>
